@@ -1,1 +1,24 @@
-# MySQL_concepts
+# ⚡ MySQL_concepts
+
+- Datatypes and Constraints in MySQL
+- Selecting Data From Table
+- Altering a Table
+- Inserting Data
+- Querying Data
+- Updating the Data
+- Deleting Data
+- Constraints in Detail
+- Functions in MySQL
+- Auto Commit and Transactions
+- Primary Key & Auto Increment
+- Foreign Keys
+- MySQL Joins
+- UNION & UNION ALL in MySQL
+- Self Joins in MySQL
+- Views in MySQL
+- MySQL Indexes
+- Subqueries in MySQL
+- GROUP BY & HAVING in MySQL
+- Stored Procedures in MySQL
+- Triggers in MySQL
+- More on MySQL  
